@@ -161,6 +161,76 @@
       "name": "动作",
       "type": "movie",
       "query": "动作"
+    },
+    {
+      "name": "动画",
+      "type": "movie",
+      "query": "动画"
+    },
+    {
+      "name": "纪录片",
+      "type": "movie",
+      "query": "纪录片"
+    },
+    {
+      "name": "热门",
+      "type": "tv",
+      "query": "热门"
+    },
+    {
+      "name": "最新",
+      "type": "tv",
+      "query": "最新"
+    },
+    {
+      "name": "经典",
+      "type": "tv",
+      "query": "经典"
+    },
+    {
+      "name": "动漫",
+      "type": "tv",
+      "query": "动漫"
+    },
+    {
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
+    },
+    {
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩剧"
+    },
+    {
+      "name": "日剧",
+      "type": "tv",
+      "query": "日剧"
+    },
+    {
+      "name": "英剧",
+      "type": "tv",
+      "query": "英剧"
+    },
+    {
+      "name": "国产剧",
+      "type": "tv",
+      "query": "国产剧"
+    },
+    {
+      "name": "港台剧",
+      "type": "tv",
+      "query": "港台剧"
+    },
+    {
+      "name": "综艺",
+      "type": "tv",
+      "query": "综艺"
+    },
+    {
+      "name": "纪录片",
+      "type": "tv",
+      "query": "纪录片"
     }
   ]
 }
