@@ -43,3 +43,4 @@ sitemap-*.xml
 # generated files
 src/lib/runtime.ts
 public/manifest.json
+.环境变量.txt
